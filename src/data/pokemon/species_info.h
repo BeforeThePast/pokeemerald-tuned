@@ -370,9 +370,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
     {
         .baseHP        = 60,
         .baseAttack    = 45,
-        .baseDefense   = 50,
-        .baseSpeed     = 70,
-        .baseSpAttack  = 80,
+        .baseDefense   = 55,
+        .baseSpeed     = 75,
+        .baseSpAttack  = 90,
         .baseSpDefense = 80,
         .types = { TYPE_BUG, TYPE_FLYING },
         .catchRate = 45,
@@ -459,9 +459,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_BEEDRILL] =
     {
         .baseHP        = 65,
-        .baseAttack    = 80,
+        .baseAttack    = 95,
         .baseDefense   = 40,
-        .baseSpeed     = 75,
+        .baseSpeed     = 80,
         .baseSpAttack  = 45,
         .baseSpDefense = 80,
         .types = { TYPE_BUG, TYPE_POISON },
@@ -548,11 +548,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_PIDGEOT] =
     {
-        .baseHP        = 83,
-        .baseAttack    = 80,
+        .baseHP        = 88,
+        .baseAttack    = 90,
         .baseDefense   = 75,
         .baseSpeed     = 91,
-        .baseSpAttack  = 70,
+        .baseSpAttack  = 60,
         .baseSpDefense = 70,
         .types = { TYPE_NORMAL, TYPE_FLYING },
         .catchRate = 45,
@@ -669,7 +669,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_FEAROW] =
     {
         .baseHP        = 65,
-        .baseAttack    = 90,
+        .baseAttack    = 95,
         .baseDefense   = 65,
         .baseSpeed     = 100,
         .baseSpAttack  = 61,
@@ -728,7 +728,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_ARBOK] =
     {
-        .baseHP        = 60,
+        .baseHP        = 70,
         .baseAttack    = 85,
         .baseDefense   = 69,
         .baseSpeed     = 80,
