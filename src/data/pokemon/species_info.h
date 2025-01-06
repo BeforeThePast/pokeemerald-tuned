@@ -9959,10 +9959,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_MAWILE] =
     {
         .baseHP        = 60,
-        .baseAttack    = 95,
+        .baseAttack    = 115,
         .baseDefense   = 105,
-        .baseSpeed     = 70,
-        .baseSpAttack  = 55,
+        .baseSpeed     = 69,
+        .baseSpAttack  = 95,
         .baseSpDefense = 90,
         .types = { TYPE_STEEL, TYPE_GHOST },
         .catchRate = 45,
