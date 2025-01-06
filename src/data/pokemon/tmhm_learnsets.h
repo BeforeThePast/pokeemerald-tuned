@@ -8592,6 +8592,7 @@ const union {
         .FRUSTRATION = TRUE,
         .SOLAR_BEAM = TRUE,
         .RETURN = TRUE,
+        .SHADOW_BALL = TRUE,
         .BRICK_BREAK = TRUE,
         .DOUBLE_TEAM = TRUE,
         .FLAMETHROWER = TRUE,
