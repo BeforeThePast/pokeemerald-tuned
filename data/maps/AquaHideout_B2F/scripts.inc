@@ -110,11 +110,11 @@ AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
 
 AquaHideout_B2F_Text_MattPostBattle:
 	.string "Hehehe!\p"
-	.string "Our top NIGGA has already gone on his way\n"
-	.string "to some cave under the sea!\p"
+	.string "Our BIG BOY has already gone on his\n"
+	.string "way to some cave under the sea!\p"
 	.string "If you're going to give chase, you'd\n"
 	.string "better search the big, wide sea beyond\l"
-	.string "NIGGACOVE.\p"
+	.string "LILYCOVE.\p"
 	.string "But will you find it then?\n"
 	.string "Hehehe!$"
 
