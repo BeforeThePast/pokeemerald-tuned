@@ -25,9 +25,14 @@ RustboroCity_Mart_Pokemart_Basic:
 	.2byte ITEM_PARALYZE_HEAL
 	.2byte ITEM_ESCAPE_ROPE
 	.2byte ITEM_REPEL
-	.2byte ITEM_X_SPEED
-	.2byte ITEM_X_ATTACK
-	.2byte ITEM_X_DEFEND
+	.2byte ITEM_ZINC
+	.2byte ITEM_IRON
+	.2byte ITEM_HP_UP
+	.2byte ITEM_PROTEIN
+	.2byte ITEM_PP_MAX
+	.2byte ITEM_PP_UP
+	.2byte ITEM_CALCIUM
+	.2byte ITEM_CARBOS
 	pokemartlistend
 
 RustboroCity_Mart_EventScript_PokemartExpanded::
@@ -50,6 +55,14 @@ RustboroCity_Mart_Pokemart_Expanded:
 	.2byte ITEM_X_SPEED
 	.2byte ITEM_X_ATTACK
 	.2byte ITEM_X_DEFEND
+ .2byte ITEM_ZINC
+	.2byte ITEM_IRON
+	.2byte ITEM_HP_UP
+	.2byte ITEM_PROTEIN
+	.2byte ITEM_PP_MAX
+	.2byte ITEM_PP_UP
+	.2byte ITEM_CALCIUM
+	.2byte ITEM_CARBOS
 	pokemartlistend
 
 RustboroCity_Mart_EventScript_PokefanF::
