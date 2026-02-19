@@ -55,7 +55,6 @@ RustboroCity_Mart_Pokemart_Expanded:
 	.2byte ITEM_X_SPEED
 	.2byte ITEM_X_ATTACK
 	.2byte ITEM_X_DEFEND
- .2byte ITEM_ZINC
 	.2byte ITEM_IRON
 	.2byte ITEM_HP_UP
 	.2byte ITEM_PROTEIN
@@ -63,6 +62,7 @@ RustboroCity_Mart_Pokemart_Expanded:
 	.2byte ITEM_PP_UP
 	.2byte ITEM_CALCIUM
 	.2byte ITEM_CARBOS
+	.2byte ITEM_ZINC
 	pokemartlistend
 
 RustboroCity_Mart_EventScript_PokefanF::
