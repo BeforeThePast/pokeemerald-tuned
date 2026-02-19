@@ -32,7 +32,12 @@ OldaleTown_Mart_Pokemart_Expanded:
 	.2byte ITEM_POTION
 	.2byte ITEM_ANTIDOTE
 	.2byte ITEM_PARALYZE_HEAL
-	.2byte ITEM_AWAKENING
+	.2byte ITEM_EON_TICKET
+	.2byte ITEM_MYSTIC_TICKET
+	.2byte ITEM_AURORA_TICKET
+	.2byte ITEM_OLD_SEA_MAP
+	.2byte ITEM_MASTER_BALL
+	.2byte ITEM_RARE_CANDY
 	pokemartlistend
 
 OldaleTown_Mart_EventScript_Woman::
