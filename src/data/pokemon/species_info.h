@@ -194,7 +194,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseSpeed     = 100,
         .baseSpAttack  = 112,
         .baseSpDefense = 85,
-        .types = { TYPE_FIRE, TYPE_FLYING },
+        .types = { TYPE_FIRE, TYPE_DRAGON },
         .catchRate = 45,
         .expYield = 209,
         .evYield_HP        = 0,
@@ -278,13 +278,13 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_BLASTOISE] =
     {
-        .baseHP        = 79,
-        .baseAttack    = 83,
+        .baseHP        = 82,
+        .baseAttack    = 80,
         .baseDefense   = 100,
-        .baseSpeed     = 78,
-        .baseSpAttack  = 88,
+        .baseSpeed     = 73,
+        .baseSpAttack  = 93,
         .baseSpDefense = 105,
-        .types = { TYPE_WATER, TYPE_WATER },
+        .types = { TYPE_WATER, TYPE_NORMAL },
         .catchRate = 45,
         .expYield = 210,
         .evYield_HP        = 0,
