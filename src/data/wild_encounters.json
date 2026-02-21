@@ -5583,7 +5583,7 @@
               {
                 "min_level": 5,
                 "max_level": 35,
-                "species": "HORSEA"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 5,
