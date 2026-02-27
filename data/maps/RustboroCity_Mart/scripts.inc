@@ -29,8 +29,6 @@ RustboroCity_Mart_Pokemart_Basic:
 	.2byte ITEM_IRON
 	.2byte ITEM_HP_UP
 	.2byte ITEM_PROTEIN
-	.2byte ITEM_PP_MAX
-	.2byte ITEM_PP_UP
 	.2byte ITEM_CALCIUM
 	.2byte ITEM_CARBOS
 	pokemartlistend
