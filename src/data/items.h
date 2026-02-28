@@ -254,7 +254,7 @@ const struct Item gItems[] =
     {
         .name = _("FULL RESTORE"),
         .itemId = ITEM_FULL_RESTORE,
-        .price = 3000,
+        .price = 2800,
         .holdEffectParam = 255,
         .description = sFullRestoreDesc,
         .pocket = POCKET_ITEMS,
@@ -268,7 +268,7 @@ const struct Item gItems[] =
     {
         .name = _("MAX POTION"),
         .itemId = ITEM_MAX_POTION,
-        .price = 2500,
+        .price = 2000,
         .holdEffectParam = 255,
         .description = sMaxPotionDesc,
         .pocket = POCKET_ITEMS,
@@ -336,7 +336,7 @@ const struct Item gItems[] =
     {
         .name = _("MAX REVIVE"),
         .itemId = ITEM_MAX_REVIVE,
-        .price = 4000,
+        .price = 3000,
         .description = sMaxReviveDesc,
         .pocket = POCKET_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
@@ -444,7 +444,7 @@ const struct Item gItems[] =
     {
         .name = _("REVIVAL HERB"),
         .itemId = ITEM_REVIVAL_HERB,
-        .price = 2800,
+        .price = 2500,
         .description = sRevivalHerbDesc,
         .pocket = POCKET_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
@@ -457,7 +457,7 @@ const struct Item gItems[] =
     {
         .name = _("ETHER"),
         .itemId = ITEM_ETHER,
-        .price = 1200,
+        .price = 600,
         .holdEffectParam = 10,
         .description = sEtherDesc,
         .pocket = POCKET_ITEMS,
@@ -471,7 +471,7 @@ const struct Item gItems[] =
     {
         .name = _("MAX ETHER"),
         .itemId = ITEM_MAX_ETHER,
-        .price = 2000,
+        .price = 800,
         .holdEffectParam = 255,
         .description = sMaxEtherDesc,
         .pocket = POCKET_ITEMS,
@@ -485,7 +485,7 @@ const struct Item gItems[] =
     {
         .name = _("ELIXIR"),
         .itemId = ITEM_ELIXIR,
-        .price = 3000,
+        .price = 900,
         .holdEffectParam = 10,
         .description = sElixirDesc,
         .pocket = POCKET_ITEMS,
@@ -499,7 +499,7 @@ const struct Item gItems[] =
     {
         .name = _("MAX ELIXIR"),
         .itemId = ITEM_MAX_ELIXIR,
-        .price = 4500,
+        .price = 1400,
         .holdEffectParam = 255,
         .description = sMaxElixirDesc,
         .pocket = POCKET_ITEMS,
