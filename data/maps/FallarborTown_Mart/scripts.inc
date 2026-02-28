@@ -19,12 +19,12 @@ FallarborTown_Mart_Pokemart:
 	.2byte ITEM_PARALYZE_HEAL
 	.2byte ITEM_ESCAPE_ROPE
 	.2byte ITEM_SUPER_REPEL
-	.2byte ITEM_X_SPECIAL
-	.2byte ITEM_X_SPEED
-	.2byte ITEM_X_ATTACK
-	.2byte ITEM_X_DEFEND
-	.2byte ITEM_DIRE_HIT
-	.2byte ITEM_GUARD_SPEC
+	.2byte ITEM_TM_SANDSTORM
+	.2byte ITEM_TM_RAIN_DANCE
+	.2byte ITEM_TM_SUNNY_DAY
+	.2byte ITEM_TM_HAIL
+	.2byte ITEM_TM_HIDDEN_POWER
+	.2byte ITEM_TM_FOCUS_PUNCH 
 	pokemartlistend
 
 FallarborTown_Mart_EventScript_Woman::
