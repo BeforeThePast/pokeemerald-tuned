@@ -17,7 +17,7 @@ const struct Item gItems[] =
     {
         .name = _("MASTER BALL"),
         .itemId = ITEM_MASTER_BALL,
-        .price = 1000,
+        .price = 1200,
         .description = sMasterBallDesc,
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_MASTER_BALL - FIRST_BALL,
@@ -30,7 +30,7 @@ const struct Item gItems[] =
     {
         .name = _("ULTRA BALL"),
         .itemId = ITEM_ULTRA_BALL,
-        .price = 1200,
+        .price = 1000,
         .description = sUltraBallDesc,
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_ULTRA_BALL - FIRST_BALL,
@@ -43,7 +43,7 @@ const struct Item gItems[] =
     {
         .name = _("GREAT BALL"),
         .itemId = ITEM_GREAT_BALL,
-        .price = 600,
+        .price = 700,
         .description = sGreatBallDesc,
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_GREAT_BALL - FIRST_BALL,
@@ -56,7 +56,7 @@ const struct Item gItems[] =
     {
         .name = _("POKé BALL"),
         .itemId = ITEM_POKE_BALL,
-        .price = 200,
+        .price = 300,
         .description = sPokeBallDesc,
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_POKE_BALL - FIRST_BALL,
