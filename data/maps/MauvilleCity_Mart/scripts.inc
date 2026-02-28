@@ -13,8 +13,9 @@ MauvilleCity_Mart_EventScript_Clerk::
 
 	.align 2
 MauvilleCity_Mart_Pokemart:
+	.2byte ITEM_PREMIER_BALL
+	.2byte ITEM_MASTER_BALL
 	.2byte ITEM_POKE_BALL
-	.2byte ITEM_GREAT_BALL
 	.2byte ITEM_SUPER_POTION
 	.2byte ITEM_ANTIDOTE
 	.2byte ITEM_PARALYZE_HEAL
@@ -25,6 +26,10 @@ MauvilleCity_Mart_Pokemart:
 	.2byte ITEM_GUARD_SPEC
 	.2byte ITEM_DIRE_HIT
 	.2byte ITEM_X_ACCURACY
+	.2byte ITEM_ETHER
+	.2byte ITEM_MAX_ETHER
+	.2byte ITEM_ELIXIR
+	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 MauvilleCity_Mart_EventScript_ExpertM::
