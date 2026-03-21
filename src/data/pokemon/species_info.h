@@ -6638,12 +6638,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_PILOSWINE] =
     {
-        .baseHP        = 100,
-        .baseAttack    = 110,
-        .baseDefense   = 80,
+        .baseHP        = 110,
+        .baseAttack    = 105,
+        .baseDefense   = 85,
         .baseSpeed     = 50,
-        .baseSpAttack  = 78,
-        .baseSpDefense = 60,
+        .baseSpAttack  = 82,
+        .baseSpDefense = 70,
         .types = { TYPE_ICE, TYPE_GROUND },
         .catchRate = 75,
         .expYield = 160,
